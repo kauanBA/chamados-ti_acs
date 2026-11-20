@@ -1,0 +1,19 @@
+{
+  "name": "helpdesk-ti-firebase",
+  "version": "2.0.0",
+  "description": "HelpDesk TI com Firebase Authentication, Cloud Firestore e RBAC",
+  "main": "app.js",
+  "engines": {
+    "node": ">=20 <23"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "firebase-admin": "^13.0.2"
+  }
+}
