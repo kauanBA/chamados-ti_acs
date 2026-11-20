@@ -8,8 +8,11 @@ Link da aplicação no Render: https://chamados-ti-acs-u8ac.onrender.com
 
 ## Credenciais de teste
 - Email user: joao@empresa.com
+- Password user: 123456
 - Email técnico: roberto@empresa.com
+- Password técnico: 123456
 - Email admin: kauan@empresa.com
+- Password admin: 123456
 
 
 ## Requisitos
