@@ -1,9 +1,12 @@
 # HelpDesk TI — Firebase + RBAC
 
 Aplicação web de chamados com Node.js, Express, EJS, Firebase Authentication e Cloud Firestore.
+
 Nome: Kauan Borges Araujo / RA: 117638
+
 Link da aplicação no Render: https://chamados-ti-acs-u8ac.onrender.com
-Credenciais de teste:
+
+## Credenciais de teste
 - Email user: joao@empresa.com
 - Email técnico: roberto@empresa.com
 - Email admin: kauan@empresa.com
